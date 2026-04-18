@@ -2,7 +2,6 @@ ray
 pandas
 pyarrow
 runpod
-huggingface-hub
 packaging
 typing-extensions>=4.8.0
 pydantic

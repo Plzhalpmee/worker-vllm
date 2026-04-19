@@ -8,5 +8,4 @@ pydantic
 pydantic-settings
 hf-transfer
 bitsandbytes>=0.45.0
-kernels
 torch-c-dlpack-ext
